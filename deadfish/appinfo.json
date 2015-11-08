@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Le Fauve",
+    "longName": "DeadFish",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "DeadFish",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7b9166de-f309-4a55-b3fe-a423a4911b43",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
